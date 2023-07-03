@@ -1,0 +1,25 @@
+body{
+    font-family: "Poppins", sans-serif;
+    font
+}
+
+.backround {
+    background-image: url(https://www.algatan.it/upload/slideshow/220/d_Header-Bio_2021-02-01_09-43-40.jpg);
+}
+
+.icon img{
+    width: 185px; /* Set the desired width */
+    height: 60px; /* Set the desired height */
+    position: relative;
+    left: 50px;
+}
+
+p {
+    font-size: larger;
+    text-align: justify;
+}
+
+.gcash img{
+    width: 205px; /* Set the desired width */
+    height: 80px; /* Set the desired height */
+}
